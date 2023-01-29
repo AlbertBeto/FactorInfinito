@@ -7,8 +7,8 @@ package net.severo.entdes;
 public class Factorial {
 
 	public static void main(String[] args) {
-String texto="Valueo of n: ";
-String texto2="Valueo of n!: ";
+String texto="Wert von n: ";
+String texto2="Wert von n!: ";
 		int n = (int) (Math.random() * 10);
 		int result = 1;
 		System.out.println(texto + n);
